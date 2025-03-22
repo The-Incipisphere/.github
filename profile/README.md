@@ -5,8 +5,10 @@ A one-man (for now) organisation to ''''brand'''' the things that I ([TheDogOfCh
 Yes, the name and icon are direct references to Homestuck.
 
 ## Contact
-For public/nonsensitive enquiries, please make a post at <https://github.com/orgs/The-Incipisphere/discussions>
+For public and private enquiries, I can be found on these platforms:
 
-For private/sensitive enquiries, drop me a line at:
+<img alt="Matrix" src="https://img.shields.io/matrix/incipisphere-blah-blah%3Amatrix.org?fetchMode=guest&style=for-the-badge&logo=matrix&label=The%20Incipisphere&link=https%3A%2F%2Fmatrix.to%2F%23%2F%23the-incipisphere%3Amatrix.org">
+
+If you're in a hurry, or don't want to be bogged down with yet another account, I can also be reached at:
 
 ![00](https://github.com/user-attachments/assets/f97204ab-4faf-4d08-832e-2929cb7a4d0d)![10](https://github.com/user-attachments/assets/9bc1e128-4d88-4ff5-8bc9-29c19e598682)![20](https://github.com/user-attachments/assets/ccbe2f34-b8de-4212-b3e8-7b3f8d4ef1a6)![30](https://github.com/user-attachments/assets/58600156-37c4-426f-a289-01479174dcc2)
