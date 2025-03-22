@@ -7,7 +7,9 @@ Yes, the name and icon are direct references to Homestuck.
 ## Contact
 For public and private enquiries, I can be found on these platforms:
 
-<img alt="Matrix" src="https://img.shields.io/matrix/incipisphere-blah-blah%3Amatrix.org?fetchMode=guest&style=for-the-badge&logo=matrix&label=The%20Incipisphere&link=https%3A%2F%2Fmatrix.to%2F%23%2F%23the-incipisphere%3Amatrix.org">
+<a src="https://matrix.to/#/#the-incipisphere:matrix.org">
+  <img alt="Matrix" src="https://img.shields.io/matrix/the-incipisphere-blah-blah%3Amatrix.org?style=for-the-badge&logo=matrix&label=The%20Incipisphere">
+</a>
 
 If you're in a hurry, or don't want to be bogged down with yet another account, I can also be reached at:
 
