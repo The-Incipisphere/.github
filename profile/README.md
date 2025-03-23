@@ -5,7 +5,7 @@ A one-man (for now) organisation to ''''brand'''' the things that I ([TheDogOfCh
 Yes, the name and icon are direct references to Homestuck.
 
 ## Contact
-For public and private enquiries, I can be found on these platforms:
+For public and private enquiries, I can be found on Matrix, but I am also available on any other platforms listed here.
 
 <a href="https://matrix.to/#/#the-incipisphere:matrix.org">
   <img alt="Matrix" src="https://img.shields.io/matrix/the-incipisphere-rules%3Amatrix.org?style=for-the-badge&logo=matrix&label=The%20Incipisphere">
