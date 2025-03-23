@@ -1,4 +1,4 @@
-# The Incipisphere
+w# The Incipisphere
 
 A one-man (for now) organisation to ''''brand'''' the things that I ([TheDogOfChaos (Becquerel)](https://github.com/TheDogOfChaos)) decide to make. 
 
@@ -8,7 +8,7 @@ Yes, the name and icon are direct references to Homestuck.
 For public and private enquiries, I can be found on Matrix, but I am also available on any other platforms listed here.
 
 <a href="https://matrix.to/#/#the-incipisphere:matrix.org">
-  <img alt="Matrix" src="https://img.shields.io/matrix/the-incipisphere-rules%3Amatrix.org?style=for-the-badge&logo=matrix&label=The%20Incipisphere">
+  <img alt="Matrix" src="https://img.shields.io/matrix/the-incipisphere-rules%3Amatrix.org?style=for-the-badge&logo=matrix&label=The%20Incipisphere&cacheSeconds=30">
 </a>
 
 If worst comes to worst, I can also be reached at:
