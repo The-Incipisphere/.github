@@ -1,4 +1,4 @@
-w# The Incipisphere
+# The Incipisphere
 
 A one-man (for now) organisation to ''''brand'''' the things that I ([TheDogOfChaos (Becquerel)](https://github.com/TheDogOfChaos)) decide to make. 
 
